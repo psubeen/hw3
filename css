@@ -1,0 +1,30 @@
+	
+	body{
+	background-size:cover;
+	background-image:url(it.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:bottom right;
+
+}
+
+.start{
+	width:cover;
+	height:100px;
+	text-align:center;
+	font-sizee:50px;
+}
+h2{
+	text-align:center;
+
+}
+#content1{
+	border-width:3px;
+	border-color:black;
+	
+}
+#foot{
+	width:auto;
+	height:100px;
+	border-width:3px;
+}
