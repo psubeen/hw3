@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>my page</title>
+	<link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+<body>
+	
+	<h1 class="start">MY HOMEPAGE</h1>
+	<h2>수원대학교 홈페이지 둘러보기</h2>
+	<div id="content1">
+	<ul>
+		<li><a href="http://ipsi.suwon.ac.kr/"><img id="come" src="come.png"></li>
+		<li><a href="http://portal.suwon.ac.kr/enview/user/mainLogin.face?url=http://info.suwon.ac.kr/sso_security_check&langKnd=ko"><img id="what" src="what.png"></li>
+		<li><a href="http://portal.suwon.ac.kr/enview/index.html"><img id="portal" src="portal.png"></li>
+		<li><a href="https://canvas.suwon.ac.kr/learningx/main"><img id="canvas" src="canvas.png"></li>
+		
+	</ul>
+	</div>
+	<footer id="foot">
+		<p>정보보호학과 2학년 박수빈</p>
+		<p>3번째 과제</p>
+		
+	
+	</footer>
+</body>
+
+
+</html>
